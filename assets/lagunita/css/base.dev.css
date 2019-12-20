@@ -34,7 +34,7 @@ h4 a,
 h5 a,
 h6 a {
   text-decoration: none;
-  color: #820000;
+  color: #000000;
 }
 /* line 30, themes/lagunita/less/base.less */
 blockquote {
@@ -73,7 +73,7 @@ h1 {
 }
 /* line 54, themes/lagunita/less/base.less */
 h2 {
-  color: #820000;
+  color: #000000;
   font-size: 1.6em;
 }
 /* line 59, themes/lagunita/less/base.less */
@@ -214,7 +214,7 @@ input:-ms-input-placeholder {
 }
 /* line 136, themes/lagunita/less/base.less */
 .color-red {
-  color: #820000;
+  color: #000000;
 }
 /* line 140, themes/lagunita/less/base.less */
 .uppercase {
@@ -262,7 +262,7 @@ input:-ms-input-placeholder {
   line-height: 1.2em;
   padding: 5px 0;
   text-transform: uppercase;
-  color: #820000;
+  color: #000000;
 }
 /* line 184, themes/lagunita/less/base.less */
 .info-box ul {
@@ -447,7 +447,7 @@ img.feature-image {
   font-size: 1em;
   font-weight: 600;
   text-transform: uppercase;
-  color: #820000;
+  color: #000000;
   margin-right: .4em;
 }
 /* line 333, themes/lagunita/less/base.less */
@@ -504,7 +504,7 @@ ul.vbar li:last-of-type {
   padding: 10px 0 4px;
   font-size: 1.2em;
   text-transform: uppercase;
-  color: #820000;
+  color: #000000;
 }
 /* line 384, themes/lagunita/less/base.less */
 .well h3 {
@@ -634,7 +634,7 @@ ul.vbar li:last-of-type {
 /* line 511, themes/lagunita/less/base.less */
 #feature-banner .feature-caption h2,
 #feature-banner .feature-caption h3 {
-  color: #820000;
+  color: #000000;
   font-size: 1.455em;
 }
 /* line 521, themes/lagunita/less/base.less */
@@ -652,7 +652,7 @@ ul.vbar li:last-of-type {
 #main-content dt {
   font-size: 1.3em;
   font-weight: 600;
-  color: #820000;
+  color: #000000;
 }
 /* line 537, themes/lagunita/less/base.less */
 #main-content dd {
@@ -972,7 +972,7 @@ body.site-slogan #signature #site-slogan a {
 }
 /* line 28, themes/lagunita/less/_footer.less */
 .footer h3 {
-  color: #820000;
+  color: #000000;
   font-size: 1em;
   line-height: 1em;
   text-transform: uppercase;
@@ -991,7 +991,7 @@ body.site-slogan #signature #site-slogan a {
 .footer a:hover,
 .footer a:active {
   text-decoration: underline;
-  color: #820000;
+  color: #000000;
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -1238,7 +1238,7 @@ body:before {
   body.nav-4 #nav-4 a,
   body.nav-5 #nav-5 a,
   body.nav-6 #nav-6 a {
-    color: #820000;
+    color: #000000;
     border-bottom: none;
   }
   /* line 124, themes/lagunita/less/_base-responsive.less */
@@ -1252,7 +1252,7 @@ body:before {
     left: 50px;
     top: 7px;
     position: absolute;
-    color: #820000;
+    color: #000000;
     font-size: 0.85em;
     font-weight: 700;
   }
@@ -1345,7 +1345,7 @@ body:before {
     font-size: 1em;
     font-weight: 600;
     text-transform: uppercase;
-    color: #820000;
+    color: #000000;
     margin-right: .4em;
   }
 }
