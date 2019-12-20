@@ -680,7 +680,7 @@ ul.vbar li:last-of-type {
 }
 /* line 556, themes/lagunita/less/base.less */
 .sidebar-nav ul li a.toc_current {
-  color: #8c1515;
+  color: #000000;
   background-color: #f2f1eb;
 }
 /* line 566, themes/lagunita/less/base.less */
@@ -737,6 +737,10 @@ ul.vbar li:last-of-type {
 /* line 38, themes/lagunita/less/_header.less */
 #brandbar .container:after {
   clear: both;
+}
+#brandbar .name {
+  font-size: 1.2em;
+  color: inherit;
 }
 /* line 44, themes/lagunita/less/_header.less */
 #header {
