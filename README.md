@@ -1,4 +1,5 @@
-themes-dw
-=========
+# Phil Pfeffer's Portfolio
 
-DreamWeaver templates that implement Stanford themes
+Welcome! Check out the live version here: https://stanford.edu/~philpfef/portfolio/.
+
+Based on Stanford's template: 
